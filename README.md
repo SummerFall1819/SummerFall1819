@@ -1,8 +1,5 @@
-CN student. Vegetable chickens.
+CN Student. Vegetable Chickens.
 
+My internet name is Xinyuan Lee.
 
-
-<!---
-SummerFall1819/SummerFall1819 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+To reach me: summerfall1819@gmail.com
